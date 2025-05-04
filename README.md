@@ -1,3 +1,3 @@
 # PHPStan
 
-# TODO = fix it pipeline stages it check vendor to
+# TODO = fix: in pipeline stages it check vendor to
